@@ -124,6 +124,10 @@ ul li strong {
   }
 }
 @media screen and (max-width: 580px) {
+  .Education table tbody td,
+  th {
+    font-size: 1em;
+  }
   .Skills .skill ul {
     flex-direction: column;
     justify-content: center;
