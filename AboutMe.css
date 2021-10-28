@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+body {
+  background-color: #c36a2d;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+.about-title {
+  font-size: 3em;
+  text-align: center;
+}
+.cont {
+  display: flex;
+  justify-content: space-around;
+}
+.cont .left {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 10px;
+  width: 250px;
+  height: 100vh;
+  background-color: #852747;
+  border-radius: 10px;
+}
+.cont .left ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cont .left ul li {
+  margin: 10px 0;
+}
+.cont .left ul li a {
+  display: block;
+  padding: 10px 10px;
+  font-size: 2em;
+  text-decoration: none;
+  background-color: #a2416b;
+  border-radius: 10px 0 0 10px;
+  color: white;
+}
+.cont .left ul li a:hover {
+  background-color: #852747;
+}
+.cont .right {
+  width: 80%;
+}
+.cont .right .profile {
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  background-color: #ff7777;
+}
+.cont .right .profile img {
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 3px 3px 4px grey, -1px -1px 1px white;
+  transition: transform 0.3s;
+}
+.cont .right .profile img:active {
+  transform: scale(200%);
+}
+.heading {
+  text-align: center;
+}
+.para {
+  margin: 10px;
+  font-size: 1.5em;
+  text-align: justify;
+}
+.Education {
+  display: flex;
+  flex-direction: column;
+}
+.Education table {
+  text-align: center;
+  box-sizing: border-box;
+}
+.Education table tbody td,
+th {
+  font-size: 1.5em;
+  padding: 10px;
+}
+ul li strong {
+  font-size: 18px;
+}
+.Skills .skill ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.Skills .skill ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 15px;
+}
+.header {
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 2px lightgrey;
+}
+.cn {
+  font-size: 2.5em;
+}
+.posi {
+  font-size: 1.5em;
+}
+@media screen and (max-width: 1080px) {
+  .cont .right {
+    width: 100%;
+  }
+  .cont .left {
+    display: none;
+  }
+}
+@media screen and (max-width: 580px) {
+  .Skills .skill ul {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
