@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#1d2024"/>
+  <rect x="20" y="20" width="360" height="260" rx="16" fill="#282a2f" stroke="#44474e" stroke-width="2"/>
+  <circle cx="200" cy="130" r="45" fill="#0b57d0" opacity="0.3"/>
+  <path d="M185 130 L195 140 L215 120" stroke="#a8c7fa" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="210" fill="#c4c6d0" font-family="system-ui, sans-serif" font-size="16" font-weight="600" text-anchor="middle">Git &amp; GitHub Analytics</text>
+</svg>
