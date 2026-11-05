@@ -17,7 +17,7 @@ import { testimonials } from "@/data/about";
 export const metadata = {
   title: "CyberTech Guruji | Data Analyst Portfolio",
   description:
-    "Full-Stack Data Analyst specializing in SQL, Python, Power BI, predictive modeling, and executive business intelligence.",
+    "Data Analyst specializing in SQL, Python, Power BI, predictive modeling, and executive business intelligence.",
 };
 
 const TECH_STACK = [
@@ -26,7 +26,6 @@ const TECH_STACK = [
   "Power BI",
   "Pandas & NumPy",
   "DAX & M Query",
-  "Scikit-learn",
   "Excel (Advanced)",
   "Statistical Analysis",
 ];
@@ -76,7 +75,7 @@ export default function Home() {
 
               {/* Main Headline */}
               <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-[2.75rem] font-bold text-m3-on-surface tracking-tight leading-[1.15]">
-                Full-Stack Data Analyst —{" "}
+                Data Analyst —{" "}
                 <span className="text-m3-primary">
                   From Raw SQL &amp; Python
                 </span>{" "}

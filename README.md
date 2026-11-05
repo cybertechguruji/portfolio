@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mohammad Akram Chaudhary — Data Analyst Portfolio
 
-## Getting Started
+I’m a data analyst who turns complex data into practical insights, reliable reporting, and clear dashboards. My work brings together SQL, Python, Power BI, and business context to help teams make better decisions.
 
-First, run the development server:
+This portfolio is an evolving collection of my work. I’ll continue adding dashboards, SQL and Python projects, articles, and in-depth case studies.
+
+**Explore the live portfolio:** [portfolio-cybertechguruji.vercel.app](https://portfolio-cybertechguruji.vercel.app/)
+
+## Explore the portfolio
+
+- **Projects and dashboards:** Data analysis, SQL, Python, predictive modeling, and interactive reporting
+- **Case studies:** The business question, methods, findings, and recommendations behind each project
+- **Articles and guides:** Practical writing about analytics, careers, and tools
+- **About and contact:** My background, experience, résumé, and ways to connect
+
+## Featured case studies
+
+### Diabetic Patient 30-Day Readmission Risk Analysis
+
+Healthcare analysis of patient readmission risk using Python, SQL, statistical testing, and an interactive dashboard. The project found that patients with three or more prior inpatient admissions had a 26.2% readmission rate.
+
+[Read the case study](https://portfolio-cybertechguruji.vercel.app/projects/diabetic-readmission-risk)
+
+### Borrower Credit Risk Default Prediction
+
+A credit-risk project using lending data, exploratory analysis, SQL validation, and logistic regression. After tuning the decision threshold to prioritize identifying potential defaults, the model reached 95.6% recall.
+
+[Read the case study](https://portfolio-cybertechguruji.vercel.app/projects/credit-risk-default-prediction)
+
+## Areas of focus
+
+SQL · Python · Power BI · Excel · Pandas · NumPy · Scikit-learn · Data cleaning · Exploratory analysis · Statistical testing · Dashboard design · Business intelligence · Data storytelling
+
+## Articles and tutorials
+
+The portfolio includes practical introductions to data analytics, what data analysts do, analyst career paths, salary considerations, and tools such as Git and Markdown. I’ll continue adding articles and guides over time.
+
+[Browse all articles](https://portfolio-cybertechguruji.vercel.app/blogs)
+
+## Built with
+
+Next.js · React · TypeScript · Tailwind CSS
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Then open [http://localhost:3000](http://localhost:3000).

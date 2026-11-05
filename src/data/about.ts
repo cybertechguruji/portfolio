@@ -17,7 +17,7 @@ export interface Stat {
 
 export const stats: Stat[] = [
   {
-    value: "3+",
+    value: "4+",
     label: "Years Experience",
   },
   {
@@ -283,7 +283,7 @@ export interface Highlight {
 
 export const highlights: Highlight[] = [
   {
-    title: "3+ Years of Professional Experience",
+    title: "4+ Years of Professional Experience",
   },
 
   {
