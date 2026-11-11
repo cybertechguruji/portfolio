@@ -1,9 +1,9 @@
 ---
 title: "Is Data Analytics Still Worth Learning in 2026? The Complete Beginner-to-Pro Guide"
-description: "Wondering whether Data Analytics is still a good career in 2026? Learn how AI is changing analytics, industry demand, salaries, required skills, and whether it's the right career for you."
-category: "Career Guide"
 date: "2026-11-11"
+category: "Career Guide"
 thumbnail: "./thumbnail.webp"
+description: "Wondering whether Data Analytics is still a good career in 2026? Learn how AI is changing analytics, industry demand, salaries, required skills, and whether it's the right career for you."
 ---
 
 # Is Data Analytics Still Worth Learning in 2026? The Complete Beginner-to-Pro Guide

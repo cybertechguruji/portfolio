@@ -1,10 +1,9 @@
 ---
 title: "What Does a Data Analyst Actually Do All Day? A Complete Beginner's Guide"
-description: "Discover what a Data Analyst really does every day. Learn the complete workflow, responsibilities, tools, meetings, business thinking, and real-world examples in this comprehensive beginner-friendly guide."
-author: "CyberTech Guruji"
-category: "Data Analytics"
 date: "2026-10-22"
+category: "Data Analytics"
 thumbnail: "./What_Data_Analysts_Actually_Do_pagina_1.png"
+description: "Discover what a Data Analyst really does every day. Learn the complete workflow, responsibilities, tools, meetings, business thinking, and real-world examples in this comprehensive beginner-friendly guide."
 ---
 
 # What Does a Data Analyst Actually Do All Day?
