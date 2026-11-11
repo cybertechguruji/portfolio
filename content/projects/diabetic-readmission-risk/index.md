@@ -2,7 +2,7 @@
 title: "Diabetic Patient 30-Day Readmission Risk Analysis"
 date: "2026-10-25"
 category: "Healthcare Analytics"
-thumbnail: "/images/placeholder.svg"
+thumbnail: "./thumbnail.webp"
 description: "A healthcare analytics project identifying which diabetic patients are at high risk of hospital readmission within 30 days, featuring an interactive BI dashboard and SQL validation."
 projectType: "dashboard"
 ---

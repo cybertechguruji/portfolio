@@ -2,7 +2,7 @@
 title: "Borrower Credit Risk Default Prediction"
 date: "2026-10-25"
 category: "Machine Learning & Risk"
-thumbnail: "/images/placeholder.svg"
+thumbnail: "./thumbnail.webp"
 description: "A credit risk analytics project predicting which borrowers are likely to experience serious loan delinquency within 2 years, using real lending data, logistic regression, and decision threshold tuning."
 projectType: "notebook"
 ---
