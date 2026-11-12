@@ -1,15 +1,9 @@
 ---
-
 title: "AI Fluency: The Complete Beginner-to-Professional Guide (The 4D Framework Explained)"
-
 description: "Learn AI Fluency from scratch. Discover Delegation, Description, Discernment, and Diligence, understand how to collaborate effectively with AI, and master practical workflows using the AI Fluency Framework."
-
 category: "Artificial Intelligence"
-
 date: "2026-11-12"
-
 thumbnail: "./conv_featured.webp"
-
 ---
 
 
