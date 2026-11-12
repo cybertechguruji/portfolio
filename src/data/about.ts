@@ -232,6 +232,16 @@ export const certifications: Certification[] = [
     image: "/images/Coursera-IJP2ZFEJLM0Z.webp",
     skills: ["SQL", "R Programming", "Tableau", "Spreadsheets", "Data Cleaning", "Data Storytelling"],
   },
+
+  {
+    title: "AI Fluency: Framework and Foundations",
+    issuer: "Anthropic Academy",
+    year: "2026",
+    credentialUrl:
+      "https://academy.claude.com/badges/c717f7cc-57b2-4cd2-a208-f24bed6ed819",
+    image: "/images/claude-academy-badge-.webp",
+    skills: ["Artificial Intelligence (AI)", "Generative AI", "Prompt Engineering"],
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
