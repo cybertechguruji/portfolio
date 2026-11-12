@@ -54,7 +54,7 @@ This article explains what actually changed, what employers want in 2026, and wh
 
 If you only remember one thing from this article, remember this:
 
-> **Data Analytics is not dying. Basic data work is becoming automated, while skilled analysts who can combine business knowledge, SQL, visualization, statistics, and AI are becoming more valuable.** :chatgpt-content-reference{index="0"}
+> **Data Analytics is not dying. Basic data work is becoming automated, while skilled analysts who can combine business knowledge, SQL, visualization, statistics, and AI are becoming more valuable.** 
 
 ---
 
@@ -191,7 +191,7 @@ This is the question everyone really wants answered.
 
 The honest answer is:
 
-> **AI is replacing tasks—not the entire profession.** :chatgpt-content-reference{index="1"}
+> **AI is replacing tasks—not the entire profession.** 
 
 That distinction matters.
 
@@ -250,11 +250,11 @@ And they're becoming even more valuable.
 
 | Myth | Fact |
 |-------|------|
-| AI replaced Data Analysts | AI automates many analyst tasks but increases demand for analysts who can use AI effectively. :chatgpt-content-reference{index="2"} |
+| AI replaced Data Analysts | AI automates many analyst tasks but increases demand for analysts who can use AI effectively.  |
 | Dashboards are enough | Businesses pay for insights, not dashboards. |
-| SQL is becoming useless | SQL remains one of the most requested analytics skills. :chatgpt-content-reference{index="3"} |
+| SQL is becoming useless | SQL remains one of the most requested analytics skills.  |
 | Excel is dead | Excel is still heavily used across industries. |
-| Beginners have no chance | Competition has increased, but practical skills and portfolios matter more than ever. :chatgpt-content-reference{index="4"} |
+| Beginners have no chance | Competition has increased, but practical skills and portfolios matter more than ever.  |
 
 ---
 
@@ -279,7 +279,7 @@ In other words,
 
 The job became more valuable.
 
-But also more demanding. :chatgpt-content-reference{index="5"}
+But also more demanding. 
 
 ---
 
@@ -301,7 +301,7 @@ That gives them more time to:
 
 This is why many companies are no longer looking for people who simply "know Power BI."
 
-They're looking for people who know how to solve business problems using data and AI together. :chatgpt-content-reference{index="6"}
+They're looking for people who know how to solve business problems using data and AI together. 
 
 ---
 
